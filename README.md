@@ -1,6 +1,8 @@
 # Analyse de l’égalité femmes-hommes dans le respect du RGPD (mission RH)
 <h2>Description</h2>
 
+Automatiser la création d’un rapport diagnostic sur l’égalité femmes-hommes à partir des données RH, en respectant le RGPD, pour calculer l’index d’égalité, générer des graphiques, exporter un fichier exploitable, et formuler des recommandations visant à améliorer la politique d’égalité au sein de l’entreprise.
+
 
 <br />
 
